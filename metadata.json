@@ -1,0 +1,8 @@
+
+{
+  "name": "ZENITH: The Invisible Architecture",
+  "description": "A self-assembling Zero-UI reality where content only exists when observed. Navigate via vibrational frequencies to uncover hidden layers of data and code.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
